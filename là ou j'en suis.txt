@@ -1,6 +1,9 @@
 Bonjour je partage ici mon avancement
 c'est plus simple ici car ce sera le même lien tout au long du projet tipe
 
+dans le dossier résultat
+-il y a différents type de graphique mais aussi dans toutes les figure il y a les résutat de différentes expérience figure 1 à 12 amortissemnt figure 13 à 25 en régime forcé
+
 mes problèmes actuels
 dans le code python donnes utiles :
 -comment faire un bon lissage sans chager l'allure de la courbe
