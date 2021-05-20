@@ -8,4 +8,7 @@ mes problèmes actuels
 dans le code python donnes utiles :
 -comment faire un bon lissage sans chager l'allure de la courbe
 -comment récupérer le extremums min de la courbe précedement lissée car chaque irrégularité va provoquer une erreur d'extremum (ce que j'ai fait pour l'instant est trop naif)
--comment représenter les résultats (j'ai fait un essais avec un diagramme baton de rapport de maximum mais cette méthode ne marche que pour l'expérience en régime forcé et si il y a un problème dans la détection des extremum tout est impacté)
+
+avec la méthode de la professeur de physique :
+-toujours un probème de lissage qui doit conduire à des résultats incompréhensibles
+-car les fréquences mesurés ne sont pas exactes ont ne peut donc pas tracer la fonction de transfert entre les fréquences et les "amplitudes reels(Xm)"
