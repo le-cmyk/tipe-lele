@@ -1,4 +1,4 @@
-﻿import os
+import os
 import xlrd
 import matplotlib.pyplot as plt
 import numpy as np
@@ -119,7 +119,7 @@ def plot_diag_baton(liste,nom,titre,name_axeY):
 
 #ouverture du premier document contenant les adresses de tout les autres ainsi que des informations particulières aux epériences et aux mesures
 
-document1 = xlrd.open_workbook("donnees_utiles.xlsx")
+document1 = xlrd.open_workbook("experiences/donnees_utiles.xlsx")
 feuille = document1.sheet_by_index(0)
 rows1 = feuille.nrows
 nom,experience,experience_name=[],[],[]
@@ -152,7 +152,7 @@ nom_regime_force=[]
 #chaque document possede 14 collonnes de données les 7 premières pour l'exprience ou l'eau bouge et les 7 autres quand l'eau est stable  dans les mêmes conditions
 
 for k in range (len(nom)):
-    document = xlrd.open_workbook(nom[k])
+    document = xlrd.open_workbook("experiences/"+nom[k])
     feuille_1 = document.sheet_by_index(0)
     cols = feuille_1.ncols
     rows = feuille_1.nrows
