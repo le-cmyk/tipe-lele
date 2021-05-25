@@ -3,8 +3,8 @@ proposition de code
 
 news:
 j'ai mis en place la méthode Villas ☺ 
-je n'ai pas obtenu de graphique concluant en traitant les données à la main (ils sont disponibles dans le document excel à la main methode villas) ces différence à la théorie sont du au limites physique de la maquette (qui était vraiment au bord de la rupture)
-une grande question se pose il y a t'il un interet de poursuivre cette methode (de comparaison du système) ou pas ...
+je n'ai pas obtenu de graphique concluant en traitant les données à la main (ils sont disponibles dans le document excel à la main methode villas) ces différences face aux résultats attendus sont du aux limites physique de la maquette (qui était vraiment au bord de la rupture)
+une grande question se pose il y a t'il un interet de poursuivre cette methode (de comparaison du système) ou pas ?...
 
 
 Bonjour je partage ici mon avancement
