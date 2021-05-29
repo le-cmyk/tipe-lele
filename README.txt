@@ -1,6 +1,9 @@
 # tipe-lele
 proposition de code
 
+28/05/2021:
+Maintenant que l'experience marche et que les résultats sont partiement utilisable je creer mon diapo de présentation
+
 
 27/05/2021:
 Aujourd'hui j'ai changé les lames ainsi que la partie pour trouver des extremums (au final c'est juste plus simple mais il y avait une erreur de inférieur ou égale)
