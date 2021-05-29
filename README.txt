@@ -1,7 +1,7 @@
 # tipe-lele
 proposition de code
 
-28/05/2021:
+29/05/2021:
 Maintenant que l'experience marche et que les résultats sont partiement utilisable je creer mon diapo de présentation
 
 
